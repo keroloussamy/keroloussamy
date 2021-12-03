@@ -1,5 +1,8 @@
 <h1 style="font-size:132px;">Hi there, I'm Kerolous 👋</h1>
-I'm a remote Full-stack web developer 
+I'm a remote Full-stack web developer
+
+[![Linkedin Badge](https://img.shields.io/badge/-kerolous%20samy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keroloussamy/)](https://www.linkedin.com/in/shady-shawkat/)
+[![Twitter Badge](https://img.shields.io/badge/-@kerolous_samy-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kerolous_samy)](https://twitter.com/kerolous_samy)
 
 <img align='right' src="https://cdn.dribbble.com/users/1518535/screenshots/7528356/media/e11e5b8aaa2187e4e1a7c3da0553208e.gif" width="230">
 
