@@ -17,6 +17,7 @@ I'm a remote Full-stack web developer
 <p>
 <a href="https://twitter.com/kerolous_samy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kerolous' twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/keroloussamy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kerolous' linked in" height="30" width="40" /></a>
+<a href="https://leetcode.com/keroloussamy/" target="blank"><img align="center" src="https://blog.ashishbansal.in/2017/04/27/A-post-after-long-time-Joining-Leetcode-for-full-time-position/leetcode.png" alt="kerolous' Leetcode" height="50" width="50" /></a>
 </p>
 
 <hr>
