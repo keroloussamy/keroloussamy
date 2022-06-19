@@ -11,7 +11,7 @@ I'm a remote Full-stack web developer
 - I have finished two diplomas **ITI** and **Nanodegree program** in web development.
 - **Worked** as a Back-end developer C#.
 - Finished **Microverse** program.
-- Now I'm looking for a new opportunity.
+- Now I'm **looking** for a new opportunity.
 
 
 <h3>Connect with me:</h3>
