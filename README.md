@@ -9,7 +9,7 @@ I'm a remote Full-stack web developer
 
 - Have a degree in **Computer Science**.
 - I have finished two diplomas **ITI** and **Nanodegree program** in web development.
-- **Worked** as a Back-end developer C#.
+- **Working** as a Full-stack MERN developer.
 - Finished **Microverse** program.
 - Now I'm **looking** for a new opportunity.
 
